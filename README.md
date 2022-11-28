@@ -5,9 +5,9 @@ The purpose of this analysis was to assist Bobby, Pewlett Hackard's HR analyst, 
 
 ## Results 
 Below are four major points from the two analysis deliverables. 
-- The retiring titles table shows there are 133,776 employees within retirement range, Jan 1, 1952 - Dec 31, 1955. 
-- The 1st highest retiring title is Senior Engineer with 25,916 employees. 
-- The 2nd highest retiring title is Senior Staff with 24,926 employees. 
+- There are 72,458 job titles in the retiring titles table.
+- The 1st highest retiring job title is Senior Engineer with 25,916 employees. 
+- The 2nd highest retiring job title is Senior Staff with 24,926 employees. 
 - We found there are 1,549 employees that are eligible for mentorship. 
 
 ## Summary 
